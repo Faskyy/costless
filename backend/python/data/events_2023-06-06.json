@@ -1,0 +1,1433 @@
+[
+    {
+        "name": "Karaoke Night At The Woods",
+        "description": "K\ufeffaraoke is hosted from 10pm - 2am by @KaraokeKingsNYC. Join us before 10pm for 2 for 1 tacos in our backyard.",
+        "date": "June 6 - June 7 @ 10pm - 2am",
+        "address": "The Woods, 48 South 4th Street, Brooklyn, NY 11249, New York, NY",
+        "activity_type": "Music",
+        "latitude": 40.712950751854315,
+        "longitude": -73.96642584927028
+    },
+    {
+        "name": "Ladies Night Tuesdays In Bayside Queens",
+        "description": "ROOFTOP LADIES NIGHT TUESDAYS is a weekly Tuesday night dance party at Bourbon Street (40-12 Bell Blvd), one of the most popular venues in Bayside Queens Every ...",
+        "date": "June 6 - June 7 @ 10pm - 1am",
+        "address": "Bourbon Street, 40-12 Bell Boulevard, Queens, NY 11361, New York, NY",
+        "activity_type": "Happy Hour",
+        "latitude": 40.76393538785128,
+        "longitude": -73.77134508125411
+    },
+    {
+        "name": "Tuesday Funk Night - Set 2",
+        "description": "This serves as a RESERVATION SYSTEM ONLY. There will be a $15 music charge per person added to your bill at the end of the evening. Have more than 8 in your ...",
+        "date": "June 6 - June 7 @ 10:30pm - 12:30am",
+        "address": "Cafe Wha?, 115 MacDougal Street, New York, NY 10012",
+        "activity_type": "Music",
+        "latitude": 40.730114795659425,
+        "longitude": -74.0006032318158
+    },
+    {
+        "name": "Free Comedy Show Club Tickets!",
+        "description": "FREE TICKETS to the Broadway Comedy Club! 318 West 53rd Top New York comedians from HBO Max, Sirius XM, Comedy Central, MTV, Conan, True TV, and more! Reserve ...",
+        "date": "June 6 - June 7 @ 11pm - 12:30am",
+        "address": "Broadway Comedy Club, 318 West 53rd Street, New York, NY 10019",
+        "activity_type": "Club",
+        "latitude": 40.768745291983876,
+        "longitude": -73.99185675419811
+    },
+    {
+        "name": "Icp Ent Night Life Tuesdaybabytuesday",
+        "description": "HAPPY TUESDAY! \ud83c\udf1e RSVP to Join my Tuesday Baby Tuesday Party \ud83c\udf89 tonight at: @ NEBULA! \ud83d\udd25\ud83d\udd25\ud83d\udd25 135 West 41st St, NYC WALK IN TIME 11:15pm SHARP! TEXT ME ASAP at ...",
+        "date": "June 6 - June 7 @ 11pm - 3am",
+        "address": "Nebula, 135 West 41st Street, New York, NY 10036",
+        "activity_type": "Happy Hour",
+        "latitude": 40.760173418891085,
+        "longitude": -73.99325022680948
+    },
+    {
+        "name": "Hilltop Uws | Group Ride #1",
+        "description": "R\ufeffSVP to reserve your spot to join Hilltop Bicycles and Specialized Legend Ned Overend for a ride from Tavern on the Green to Market R\ufeffoute to be sent before!",
+        "date": "June 7 @ 7am - 10am",
+        "address": "Tavern On the Green, West 67th Street, New York, NY 10023",
+        "activity_type": "Food",
+        "latitude": 40.77225395022719,
+        "longitude": -73.97766517625051
+    },
+    {
+        "name": "Union Square Greenmarket Wednesdays",
+        "description": "Open Wednesdays year-round on North and West sides of Union Square Park - the world-famous Union Square Greenmarket. Cooking demonstrations take place at the ...",
+        "date": "June 7 @ 8am - 6pm. Weekly",
+        "address": "17th Street and Union Square West, New York, New York 10003",
+        "activity_type": "Outdoor",
+        "latitude": 40.7371228230457,
+        "longitude": -73.99029154733492
+    },
+    {
+        "name": "Volunteer At 9 Million Reasons / Evangel Food Pantry",
+        "description": "About 9 Million Reasons: We provide free food for anyone in need. And we are serious about an inclusive community. We do not tolerate any discrimination, we're ...",
+        "date": "June 7 @ 8:45am - 1pm",
+        "address": "9 Million Reasons / Evangel Food Pantry, 39-21 Crescent St., Long Island City, NY 11101, New York, NY",
+        "activity_type": "Food",
+        "latitude": 40.754189334899685,
+        "longitude": -73.93720975143383
+    },
+    {
+        "name": "Hamilton Grange National Memorial Free Admission Wednesday",
+        "description": "Free Admission Wednesday at Hamilton Grange National Memorial - see INFO below. Hamilton Grange National Memorial preserves the home of founding father ...",
+        "date": "June 7 @ 9am - 5pm. Weekly - Wednesdays",
+        "address": "Hamilton Grange National Memorial, 414 West 141st Street, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.82139616104813,
+        "longitude": -73.94725829885492
+    },
+    {
+        "name": "Socrates Sculpture Park Free Admission Wednesday",
+        "description": "Free Admission Wednesday at Socrates Sculpture Park - see INFO below. The Socrates Annual is the culminating exhibition of our Emerging Artist Fellowship (EAF) ...",
+        "date": "June 7 @ 9am - 7:30pm. Weekly - Wednesdays",
+        "address": "Socrates Sculpture Park, 32-01 Vernon Boulevard, Long Island City, NY, New York, NY",
+        "activity_type": "Art",
+        "latitude": 40.76878184930892,
+        "longitude": -73.9365760494541
+    },
+    {
+        "name": "Hamilton Grange National Memorial Free Admission Wednesday",
+        "description": "Free Admission Wednesday at Hamilton Grange National Memorial - see INFO below. Hamilton Grange National Memorial preserves the home of founding father ...",
+        "date": "June 7 @ 9am - 5pm. Weekly - Wednesdays",
+        "address": "Hamilton Grange National Memorial, 414 West 141st Street, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.82132044521249,
+        "longitude": -73.94726571711031
+    },
+    {
+        "name": "Queens Botanical Garden Free Admission Wednesdays (Winter Hours)",
+        "description": "Free Admission Wednesday at Queens Botanical Garden - see INFO below. Queens Botanical Garden evolved from the 5-acre Gardens on Parade exhibit showcased at ...",
+        "date": "June 7 @ 9am - 4:30pm. Weekly - Wednesdays",
+        "address": "Queens Botanical Garden, 43-50 Main Street, Flushing, NY, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.751217643718135,
+        "longitude": -73.82611788226625
+    },
+    {
+        "name": "The Annual Ny Music Month Conference",
+        "description": "Event Description: On June 7th, the annual New York Music Month conference is back in person for an in-depth look at NYC\u2019s Music Industry. This annual one-day ...",
+        "date": "June 7 @ 9:30am - 5:30pm",
+        "address": "Kimmel Center for University Life, 60 Washington Square South, New York, NY 10012",
+        "activity_type": "Music",
+        "latitude": 40.729906264712874,
+        "longitude": -73.9977416005209
+    },
+    {
+        "name": "General Grant National Memorial Free Admission Wednesday",
+        "description": "Free Admission Wednesday at General Grant National Memorial - see INFO below. The NPS Manhattan Historic Sites Archive The National Park Service - Manhattan ...",
+        "date": "June 7 @ 10am - 11am. Weekly - Wednesdays",
+        "address": "General Grant National Memorial, Riverside Drive and 122nd Street, New York, NY",
+        "activity_type": "Outdoor",
+        "latitude": 40.81343965009366,
+        "longitude": -73.96307351127956
+    },
+    {
+        "name": "National Museum Of The American Indian Free Admission Wednesday",
+        "description": "Free Admission Wednesday at National Museum of the American Indian - see INFO below. Since the passage of its enabling legislation in 1989 (amended in 1996), ...",
+        "date": "June 7 @ 10am - 5:30pm. Weekly - Wednesdays",
+        "address": "National Museum of the American Indian, 1 Bowling Green, New York, NY",
+        "activity_type": "Museum",
+        "latitude": 40.703937510256665,
+        "longitude": -74.01366701672606
+    },
+    {
+        "name": "The Metropolitan Museum Of Art Pay-What-You-Wish / Free Admission Wednesdays",
+        "description": "Pay-What-You-Wish Admission Wednesdays at the The Metropolitan Museum of Art Fifth Avenue for New York State residents and NY, NJ, CT students; Free Admission ...",
+        "date": "June 7 @ 10am - 5:30pm. Weekly - Wednesdays",
+        "address": "The Met Fifth Avenue, 1000 Fifth Avenue, New York, NY",
+        "activity_type": "Art",
+        "latitude": 40.77945272716856,
+        "longitude": -73.96323852175254
+    },
+    {
+        "name": "Snug Harbor Cultural Center & Botanical Garden Free Admission Wednesday",
+        "description": "Free Admission Wednesday at Snug Harbor Cultural Center Botanical Garden - see INFO below. As an additional experience on October 13, Rosario will instruct a ...",
+        "date": "June 7 @ 10am - 5pm. Weekly - Wednesdays",
+        "address": "Snug Harbor Cultural Center & Botanical Garden, 1000 Richmond Terrace, Staten Island, NY, New York, NY",
+        "activity_type": "Art",
+        "latitude": 40.643391428215565,
+        "longitude": -74.10275350878199
+    },
+    {
+        "name": "Bric Free Admission Wednesday",
+        "description": "Free Admission Wednesday at BRIC - see INFO below. BRIC presents programs in contemporary art, performing arts, and video that reflect the creativity and ...",
+        "date": "June 7 @ 10am - 6pm. Weekly - Wednesdays",
+        "address": "BRIC House, 647 Fulton Street, Brooklyn, NY, New York, NY",
+        "activity_type": "Art",
+        "latitude": 40.68827204889333,
+        "longitude": -73.97926858110085
+    },
+    {
+        "name": "Bronx Zoo Free Wednesdays - Limited Admission",
+        "description": "Bronx Zoo - Free Admission Wednesdays INFO below. The Bronx Zoo is a zoo located within Bronx Park in the Bronx, a borough of New York City. It is the largest ...",
+        "date": "June 7 @ 10am - 5pm. Weekly",
+        "address": "Bronx Zoo, 2300 Southern Blvd, Bronx, New York 10460",
+        "activity_type": "Outdoor",
+        "latitude": 40.85013166798367,
+        "longitude": -73.87680566599724
+    },
+    {
+        "name": "The Met Cloisters Pay-What-You-Wish / Free Admission Wednesday",
+        "description": "Pay-What-You-Wish Admission at the The Met Cloisters for New York State residents and NY, NJ, CT students; Free Admission for Members, Patrons and Children ...",
+        "date": "June 7 @ 10am - 5pm. Weekly - Wednesdays",
+        "address": "Fort Tryon Park, 99 Margaret Corbin Drive, New York, NY",
+        "activity_type": "Family",
+        "latitude": 40.86173465813598,
+        "longitude": -73.9329176211047
+    },
+    {
+        "name": "The New York Public Library Free Admission Wednesday",
+        "description": "Free Admission Wednesday at The New York Public Library - see INFO below. New York's other principal library during this time was founded by James Lenox and ...",
+        "date": "June 7 @ 10am - 7:45pm. Weekly - Wednesdays",
+        "address": "The New York Public Library\u2019s Stephen A. Schwarzman Building, 476 5th Ave, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.75326136844092,
+        "longitude": -73.98231327035722
+    },
+    {
+        "name": "Bric Free Admission Wednesday",
+        "description": "Free Admission Wednesday at BRIC - see INFO below. BRIC presents programs in contemporary art, performing arts, and video that reflect the creativity and ...",
+        "date": "June 7 @ 10am - 6pm. Weekly - Wednesdays",
+        "address": "BRIC House, 647 Fulton Street, Brooklyn, NY, New York, NY",
+        "activity_type": "Art",
+        "latitude": 40.68826410245612,
+        "longitude": -73.97913372154578
+    },
+    {
+        "name": "Bronx Zoo Free Wednesdays - Limited Admission",
+        "description": "Bronx Zoo - Free Admission Wednesdays INFO below. The Bronx Zoo is a zoo located within Bronx Park in the Bronx, a borough of New York City. It is the largest ...",
+        "date": "June 7 @ 10am - 5pm. Weekly",
+        "address": "Bronx Zoo, 2300 Southern Blvd, Bronx, New York 10460",
+        "activity_type": "Outdoor",
+        "latitude": 40.85018772433345,
+        "longitude": -73.87673515019299
+    },
+    {
+        "name": "The Met Cloisters Pay-What-You-Wish / Free Admission Wednesday",
+        "description": "Pay-What-You-Wish Admission at the The Met Cloisters for New York State residents and NY, NJ, CT students; Free Admission for Members, Patrons and Children ...",
+        "date": "June 7 @ 10am - 5pm. Weekly - Wednesdays",
+        "address": "Fort Tryon Park, 99 Margaret Corbin Drive, New York, NY",
+        "activity_type": "Family",
+        "latitude": 40.86188586621692,
+        "longitude": -73.93306324527495
+    },
+    {
+        "name": "The New York Public Library For The Performing Arts Free Admission Wednesday",
+        "description": "Free Admission Wednesday at The New York Public Library for the Performing Arts - see INFO below. Major support for educational programming is provided by ...",
+        "date": "June 7 @ 10:30am - 6pm. Weekly - Wednesdays",
+        "address": "New York Public Library For the Performing Arts, 40 Lincoln Center Plaza, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.77346039984976,
+        "longitude": -73.9846845692092
+    },
+    {
+        "name": "The Bronx Museum Of The Arts Free Admission Wednesday",
+        "description": "Free Admission Wednesday at The Bronx Museum of the Arts - see INFO below. The Bronx Museum has an established reputation as a contemporary art museum that ...",
+        "date": "June 7 @ 11am - 6pm. Weekly - Wednesdays",
+        "address": "The Bronx Museum of the Arts, 1040 Grand Concourse, Bronx, NY, New York, NY",
+        "activity_type": "Art",
+        "latitude": 40.83118668765522,
+        "longitude": -73.91962504531722
+    },
+    {
+        "name": "Brooklyn Botanic Garden Free Admission Wednesdays (Winter Hours)",
+        "description": "Free Admission Wednesday at Brooklyn Botanic Garden - see INFO below. Brooklyn Botanic Garden is in the final stretch of a decade-long series of ...",
+        "date": "June 7 @ 11am - 5:30pm. Weekly - Wednesdays",
+        "address": "Brooklyn Botanic Garden, 990 Washington Ave, Brooklyn, NY, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.66860356752196,
+        "longitude": -73.96440357502632
+    },
+    {
+        "name": "American Folk Art Museum Free Admission Wednesday",
+        "description": "Free Admission Wednesday at American Folk Art Museum - see INFO below. Self-taught art, past and present, tells empowering stories of everyday life. The field ...",
+        "date": "June 7 @ 11:30am - 7pm. Weekly - Wednesdays",
+        "address": "Self-Taught Genius Gallery in Queens, 47-29 32nd Place, Long Island City, NY, New York, NY",
+        "activity_type": "Art",
+        "latitude": 40.741841254106916,
+        "longitude": -73.93303241125231
+    },
+    {
+        "name": "\"Red\" - Art Exhibition",
+        "description": "May 25 - July 5, 2023 Opening Reception: Thursday, May 25 from 6-8pm Curators: Pamela Bell and Nancy Caton Curated by Pamela Bell and Nancy Caton, RED brings ...",
+        "date": "June 7 @ 12pm - 6pm",
+        "address": "Fountain House Gallery, 702 9th Avenue, New York, NY 10019",
+        "activity_type": "Art",
+        "latitude": 40.762311474683806,
+        "longitude": -73.98968666500829
+    },
+    {
+        "name": "Leslie-Lohman Museum Free Admission Wednesday",
+        "description": "Free Admission Wednesday at LeslieLohman Museum of Gay and Lesbian Art - see INFO below. GROUP FAIL PONY PLAY is an eco-utopic queer habitat that references ...",
+        "date": "June 7 @ 12pm - 6pm. Weekly - Wednesdays",
+        "address": "Leslie-Lohman Museum, 26 Wooster St, New York, NY",
+        "activity_type": "Art",
+        "latitude": 40.721623552820226,
+        "longitude": -74.0031312037872
+    },
+    {
+        "name": "The Museum At The Fashion Institute Of Technology (Fit) Free Admission Wednesday",
+        "description": "Free Admission Wednesday at The Museum at The Fashion Institute of Technology (FIT) - see INFO below. The Museum at FIT (MFIT) is best known for its innovative ...",
+        "date": "June 7 @ 12pm - 8pm. Weekly - Wednesdays",
+        "address": "Fashion Institute of Technology, 227 W 27th St, New York, NY",
+        "activity_type": "Museum",
+        "latitude": 40.747219740571836,
+        "longitude": -73.99510435839528
+    },
+    {
+        "name": "Come Make A Instagram Video Or Tiktok For A Free Gift !",
+        "description": "COME CREATE CONTENT HERE AT GODS FOR A FREE GIFT ! FRE! FREE! FREE!",
+        "date": "June 7 @ 12:30pm - 3:30pm",
+        "address": "156 Sullivan St, 156 Sullivan Street, New York, NY 10012",
+        "activity_type": "Entertainment",
+        "latitude": 40.72739805315635,
+        "longitude": -74.00185962766152
+    },
+    {
+        "name": "The Frick Collection Free Wednesdays - Pay-What-You-Wish Admission",
+        "description": "The Frick Collection - Free Wednesdays Admission INFO below. Internationally recognized as a premier museum and research center, the Frick is known for its ...",
+        "date": "June 7 @ 2pm - 6pm. Weekly",
+        "address": "The Frick Collection, 1 East 70th Street, New York, New York 10021",
+        "activity_type": "Museum",
+        "latitude": 40.77115453908377,
+        "longitude": -73.9672990263494
+    },
+    {
+        "name": "Staten Island Zoo Free Admission Wednesday",
+        "description": "Free Admission Wednesday at Staten Island Zoo - see INFO below. The Staten Island Zoo is an 8-acre suburban zoo in West New Brighton, Staten Island, New York ...",
+        "date": "June 7 @ 2pm - 4:45pm. Weekly - Wednesdays",
+        "address": "Staten Island Zoo, 614 Broadway, Staten Island, NY, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.62509215781904,
+        "longitude": -74.1154540100944
+    },
+    {
+        "name": "Happy Hour At Lakou Cafe",
+        "description": "Join us everyday from 3pm to 7pm for Happy Hour! Unwind after work and have a fun time with friends and coworkers.",
+        "date": "June 7 @ 3pm - 7pm",
+        "address": "Lakou Cafe, 195 Utica Avenue, Brooklyn, NY 11213, New York, NY",
+        "activity_type": "Happy Hour",
+        "latitude": 40.67193932329412,
+        "longitude": -73.93066572228857
+    },
+    {
+        "name": "Queens Botanical Garden Free Admission Wednesdays",
+        "description": "Free Admission Wednesday at Queens Botanical Garden - see INFO below. Queens Botanical Garden evolved from the 5-acre Gardens on Parade exhibit showcased at ...",
+        "date": "June 7 @ 3pm - 6pm. Weekly - Wednesdays",
+        "address": "Queens Botanical Garden, 43-50 Main Street, Flushing, NY, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.7512806901125,
+        "longitude": -73.82626531307936
+    },
+    {
+        "name": "New York Aquarium Free Admission Wednesday",
+        "description": "Free Admission Wednesday at The New York Aquarium - see INFO below. The New York Aquarium is the oldest continually operating aquarium in the United States, ...",
+        "date": "June 7 @ 3pm - 4:30pm. Weekly - Wednesdays",
+        "address": "New York Aquarium, Surf Avenue & West 8th Street, Brooklyn, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.57425698969819,
+        "longitude": -73.97493895368234
+    },
+    {
+        "name": "R&B Wednesday's At Krab Queenz",
+        "description": "Located in the heart of Harlem come enjoy good music and good drinks with a charismatic crowd . . .",
+        "date": "June 7 @ 4pm - 7pm",
+        "address": "Krab Queens, 100 West 125th Street, New York, NY 10027",
+        "activity_type": "Music",
+        "latitude": 40.80783163183469,
+        "longitude": -73.94608980878304
+    },
+    {
+        "name": "Happy Hour On The Water @ Watermark Beach - $9 Drinks- No Cover -Live Dj's",
+        "description": "WATERMARK BEACH IS PROUD TO HOST \"OUR DAILY HAPPY HOUR\" @ PIER 15 NYC! -CELEBRATE LIFE WITH TROPICAL COCKTAILS, ROS\u00c9, FROZEN DRINKS + DELICIOUS HOT OFF THE ...",
+        "date": "June 7 @ 4pm - 11pm",
+        "address": "Watermark, Pier 15, 78 South Street, New York, NY 10038",
+        "activity_type": "Happy Hour",
+        "latitude": 40.70450073457932,
+        "longitude": -74.00313012752142
+    },
+    {
+        "name": "Hip Hop Dance Workshop",
+        "description": "Nyc Arts Cypher represents the positive and innovative side of Hip Hop culture by continuously promoting one of its oldest art forms: Hip Hop Dance. Javon ...",
+        "date": "June 7 @ 4pm - 6pm",
+        "address": "12 Broad St, 12 Broad Street, Staten Island, NY 10304, New York, NY",
+        "activity_type": "Art",
+        "latitude": 40.624638757688565,
+        "longitude": -74.0798109643604
+    },
+    {
+        "name": "Museum Of Jewish Heritage - Free Admission Wednesdays",
+        "description": "Free Admission Wednesdays at Museum of Jewish Heritage - see INFO below. Museum of Jewish Heritage \u2013 A Living Memorial to the Holocaust. The museum's ...",
+        "date": "June 7 @ 4pm - 8pm. Weekly",
+        "address": "Museum of Jewish Heritage, Edmond J. Safra Plaza, 36 Battery Place, New York, New York 10280",
+        "activity_type": "Museum",
+        "latitude": 40.706259542120705,
+        "longitude": -74.01887143055146
+    },
+    {
+        "name": "Wine Down Wednesday With R&B",
+        "description": "You\u2019re half way there! It\u2019s Wednesday! Let\u2019s Wine Down! Enjoy a complimentary glass of red or white wine with every entree, wine specials by the glass and ...",
+        "date": "June 7 @ 4pm - 7pm",
+        "address": "Brunch Harlem, 271 West 119th Street, New York, NY 10026",
+        "activity_type": "Happy Hour",
+        "latitude": 40.80618578689118,
+        "longitude": -73.95333383950572
+    },
+    {
+        "name": "Hip Hop Dance Workshop",
+        "description": "Nyc Arts Cypher represents the positive and innovative side of Hip Hop culture by continuously promoting one of its oldest art forms: Hip Hop Dance. Javon ...",
+        "date": "June 7 @ 4pm - 6pm",
+        "address": "12 Broad St, 12 Broad Street, Staten Island, NY 10304, New York, NY",
+        "activity_type": "Art",
+        "latitude": 40.624563447496314,
+        "longitude": -74.07990543162907
+    },
+    {
+        "name": "R&B Wednesday's At Krab Queenz",
+        "description": "Located in the heart of Harlem come enjoy good music and good drinks with a charismatic crowd . . .",
+        "date": "June 7 @ 4pm - 7pm",
+        "address": "Krab Queens, 100 West 125th Street, New York, NY 10027",
+        "activity_type": "Music",
+        "latitude": 40.807768243789965,
+        "longitude": -73.94611281268101
+    },
+    {
+        "name": "Gutfeld!",
+        "description": "TO ACCESS THIS TICKET, PLEASE ENTER THIS ACCESS CODE: GUTFELD11PM WHERE: -The News Corp Building: 1211 Avenue of the Americas, New York, NY 10036. -Please form ...",
+        "date": "June 7 @ 4:45pm - 7:30pm",
+        "address": "Fox News Channel, 1211 Avenue of the Americas 6th Avenue between 47th and 48th Street, New York, NY 10036-8701",
+        "activity_type": "Entertainment",
+        "latitude": 40.760184010012324,
+        "longitude": -73.99331249760336
+    },
+    {
+        "name": "Sunset Soir\u00e9E At Le Bain",
+        "description": "Sunset Soir\u00e9e at Le Bain Wed, June 7 &amp; Wed, June 28 from 5\u201310pm Le Bain at The Standard Hotel FIAF\u2019s Sunset Soir\u00e9es are back at Le Bain! Join us in ...",
+        "date": "June 7 @ 5pm - 10pm",
+        "address": "Le Bain at The Standard, 848 Washington Street, New York, NY 10014",
+        "activity_type": "Entertainment",
+        "latitude": 40.76241838481963,
+        "longitude": -73.96771250132728
+    },
+    {
+        "name": "Class Of 2016 High School Graduation Party",
+        "description": "Seven years after graduating Caedmon come back to the place where the journey began. Enjoy food, drinks, and cake while revisiting Caedmon",
+        "date": "June 7 @ 5pm - 7pm",
+        "address": "The Caedmon School, 416 East 80th Street, New York, NY 10075",
+        "activity_type": "Food",
+        "latitude": 40.772610776254275,
+        "longitude": -73.95136535197251
+    },
+    {
+        "name": "Clothing Swap Event Lic At Remix Market",
+        "description": "Refresh the closet for the new season at our neighborhood clothes swap event! Bring gently used and good condition clothes to be dropped off and shop for new ...",
+        "date": "June 7 @ 5pm - 7pm",
+        "address": "Remix Market NYC, 10-39 44th Drive, Queens, NY 11101, New York, NY",
+        "activity_type": "Food",
+        "latitude": 40.748926669289546,
+        "longitude": -73.95013616157829
+    },
+    {
+        "name": "Listening Party: Return To The Source, 1968",
+        "description": "Join us for the first of a series of events to take place over the next few months as part of the launch of Return to the Source , this listening party ...",
+        "date": "June 7 @ 5:30pm - 7pm",
+        "address": "The Skylight Room, The CUNY Graduate Center 365 5th Avenue, New York, NY 10016",
+        "activity_type": "Happy Hour",
+        "latitude": 40.75095612518718,
+        "longitude": -73.97360328857273
+    },
+    {
+        "name": "Free 2023 Wellness Wednesdays, Presented By Lifeway Foods",
+        "description": "Sponsored by Lifeway Foods , Wellness Wednesdays: Sputnik Yoga will offer a variety of free yoga &amp; fitness classes to make wellness and mindfulness more ...",
+        "date": "June 7 @ 5:30pm - 6:30pm",
+        "address": "North Oculus Plaza, 50 Church Street, New York, NY 10006",
+        "activity_type": "Sports",
+        "latitude": 40.711365393388995,
+        "longitude": -74.01069708041138
+    },
+    {
+        "name": "\u2018Here\u2019S One I Made Earlier\u2019 : Screening And Artist Talk With Richelle Rich",
+        "description": "6pm drinks and reception 6.30pm screening and artist talk My solo show \u2018Somewhere, Something Incredible Is Waiting To Be Known\u2019 was due to open in New York, ...",
+        "date": "June 7 @ 6pm - 7:30pm",
+        "address": "50 Eldridge St 7th floor, 50 Eldridge Street #7th floor, New York, NY 10002",
+        "activity_type": "Art",
+        "latitude": 40.71600088466777,
+        "longitude": -73.99281044180849
+    },
+    {
+        "name": "Workout Wednesdays @ Willis Ave Community Garden - Salsa Dance Classes",
+        "description": "Come out to Willis Ave. Community Garden for free salsa dance classes with Sweet Water Dance &amp; Yoga on Wednesday evenings from 6 pm \u2013 7 pm! With its roots ...",
+        "date": "June 7 @ 6pm - 7pm",
+        "address": "Willis Ave Community Garden, 401 East 143rd Street, The Bronx, NY 10454, New York, NY",
+        "activity_type": "Club",
+        "latitude": 40.81231738037468,
+        "longitude": -73.92004302076747
+    },
+    {
+        "name": "International Film Premiere - Indlela Yokuphila: The Soul's Journey",
+        "description": "I\ufeffndlela Yokuphila: The Soul's Journey - When indigenous and scientific knowledge work in solidarity towards inclusive ocean decision making The One Ocean Hub, ...",
+        "date": "June 7 @ 6pm - 8pm",
+        "address": "777 United Nations Plaza, 777 United Nations Plaza, New York, NY 10017",
+        "activity_type": "Entertainment",
+        "latitude": 40.75015754839937,
+        "longitude": -73.9693736056574
+    },
+    {
+        "name": "Saphyre\u2019S Client Appreciation Summer Event",
+        "description": "Please join us for Saphyre\u2019s Client Appreciation Summer Event on June 7th at 6:00 pm at Dear Irving on the Hudson rooftop bar in NYC.",
+        "date": "June 7 @ 6pm - 10pm",
+        "address": "Dear Irving on the Hudson, 310 W. 40th Street, New York, NY 10018",
+        "activity_type": "Bar",
+        "latitude": 40.75624670982974,
+        "longitude": -73.99169931708842
+    },
+    {
+        "name": "Karaoke Wednesday",
+        "description": "Foods and Drinks! Appetizers availabe**",
+        "date": "June 7 - June 8 @ 6pm - 12am",
+        "address": "Den of Splendor Lounge, 42 Albany Avenue, Brooklyn, NY 11213, New York, NY",
+        "activity_type": "Music",
+        "latitude": 40.67940177013116,
+        "longitude": -73.93860641235456
+    },
+    {
+        "name": "Portfolio Development: The Exhibition - Opening Reception",
+        "description": "This Opening Reception is a celebration of the best work from the emerging photographers who participated in Soho Photo Gallery's Portfolio Development ...",
+        "date": "June 7 @ 6pm - 8pm",
+        "address": "Soho Photo Gallery, 15 White Street, New York, NY 10013",
+        "activity_type": "Art",
+        "latitude": 40.719038130635205,
+        "longitude": -74.00544418552074
+    },
+    {
+        "name": "Wednesday Jam",
+        "description": "Ryuta Iwashita leads Wednesday Warm-up ! class from 6-7pm Jam from 7-9pm (masks optional, vaccine mandatory) 6:10-7pm class (doors open at 6 and close at 6:15) ...",
+        "date": "June 7 @ 6pm - 9pm",
+        "address": "Bill Young's, 100 Grand Street, New York, NY 10013",
+        "activity_type": "Workshop",
+        "latitude": 40.72171592522448,
+        "longitude": -74.00942580692158
+    },
+    {
+        "name": "Oit Nyc | Women & Tgx Social: Ultimatum Queer Love Finale Watch Party",
+        "description": "J oin Out in Tech NY for our June Women, Trans, and Gender Expansive (TGX) Social! This month, we're changing things up and hosting a screening of the finale ...",
+        "date": "June 7 @ 6pm - 9pm",
+        "address": "Vers Bar, 714 9th Avenue, New York, NY 10019",
+        "activity_type": "Happy Hour",
+        "latitude": 40.76256274456347,
+        "longitude": -73.98908357630606
+    },
+    {
+        "name": "Wild Out Wednesdays",
+        "description": "\ud83d\ude1c\ud83d\ude08 WILD OUT WEDNESDAYS \ud83d\ude1c\ud83d\ude08 MUSIC BY: NYC TOPS DJ\u2019S Reggae | Soca | Top 40&nbsp;&nbsp;| Hip Hop | Afrobeats | Kompa HAPPY HOUR SPECIALS 6PM-10PM: $5 Shots ...",
+        "date": "June 7 - June 8 @ 6pm - 2am",
+        "address": "NYX Bar & Lounge, 116-04 Rockaway Boulevard, Queens, NY 11420, New York, NY",
+        "activity_type": "Music",
+        "latitude": 40.67624467278202,
+        "longitude": -73.82189616068966
+    },
+    {
+        "name": "Board Games In Bensonhurst",
+        "description": "The cafe has a wide variety of board games along with food and drinks for purchase *NO ALCOHOL*. Feel free to play what you want that's there or bring your own ...",
+        "date": "June 7 @ 6pm - 10pm",
+        "address": "Next Move Cafe, 6 Bay 23rd St, Brooklyn, NY, New York, NY",
+        "activity_type": "Food",
+        "latitude": 40.60494349412631,
+        "longitude": -73.99925215204443
+    },
+    {
+        "name": "Board Games In Bensonhurst",
+        "description": "The cafe has a wide variety of board games along with food and drinks for purchase *NO ALCOHOL*. Feel free to play what you want that's there or bring your own ...",
+        "date": "June 7 @ 6pm - 10pm",
+        "address": "Next Move Cafe, 6 Bay 23rd St, Brooklyn, NY, New York, NY",
+        "activity_type": "Food",
+        "latitude": 40.60499190753453,
+        "longitude": -73.99935309496895
+    },
+    {
+        "name": "Creative Portrait, Lighting & Posing : Wed Jun 07-Jun 14, 6:15pm-7:30pm Online.",
+        "description": "Creative Portrait, Lighting &amp; Posing (4 Sessions): Wednesdays Jun 07-Jun 14, 6:15pm-7:30pm online. Jun 21-Jun 28, 6:15pm-9:00pm in-person photoshoot. . ...",
+        "date": "June 7 @ 6:15pm - 7:15pm",
+        "address": "PhotoManhattan, 51 W 14th St #3R, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.73734868712972,
+        "longitude": -73.99580699590871
+    },
+    {
+        "name": "Commander Night In Brooklyn",
+        "description": "Join us every Wednesday in Brooklyn for our very own Magic the Gathering Commander Nights!",
+        "date": "June 7 @ 6:30pm - 11:30pm",
+        "address": "BrookLAN, 339 Troutman Street, Brooklyn, NY 11237, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.70526090013691,
+        "longitude": -73.92445106459326
+    },
+    {
+        "name": "Cocktails & Conversations At Tavern On The Green",
+        "description": "Get Tickets Here: [hidden] RSVPs on MeetUp only represent a portion of those ACTUALLY attending. How many are attending? Who is going to be there? What can I ...",
+        "date": "June 7 @ 6:30pm - 9pm",
+        "address": "Tavern On the Green, W 67th St, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.772255487382466,
+        "longitude": -73.97768879259348
+    },
+    {
+        "name": "Movie Night: Aline By Val\u00e9Rie Lemercier",
+        "description": "S\ufeffynopsis: Quebec, late 1960s, Sylvette and Anglomard welcome their 14th child: Aline. In the Dieu family, music reigns supreme and when Aline grows up we ...",
+        "date": "June 7 @ 6:30pm - 8:30pm",
+        "address": "Lycee Francais de New York, 505 East 75th street, New York, NY 10021",
+        "activity_type": "Music",
+        "latitude": 40.768804763369765,
+        "longitude": -73.9514515607549
+    },
+    {
+        "name": "Games, Karaoke & Open Mic Night @ Offside!",
+        "description": "@offsidenyc &amp; @thegameartsunion are back! Every Wednesday, we bring you live performances, karaoke, and games of all kinds! Bring your gaming systems, ...",
+        "date": "June 7 @ 6:30pm - 11:30pm",
+        "address": "Offside NYC, 94 Avenue A, New York, NY 10009",
+        "activity_type": "Entertainment",
+        "latitude": 40.725427519253586,
+        "longitude": -73.98355594003323
+    },
+    {
+        "name": "Drip! Live Comedy At The Stand Nyc",
+        "description": "DRIP is one of the hottest shows in NYC, featuring comics from Comedy Central, HBO, Netflix, Tonight Show + more! Join us Wednesday March 1st for a cheap night ...",
+        "date": "June 7 @ 7pm - 10pm",
+        "address": "The Stand NYC, 116 East 16th Street, New York, NY 10003",
+        "activity_type": "Art",
+        "latitude": 40.73533471484288,
+        "longitude": -73.98844280736142
+    },
+    {
+        "name": "Kb And Kartiis Send Off",
+        "description": "Don\u2019t come late because you will miss it, rsvp for everyone who\u2019s coming or someone just won\u2019t get food .everybody needs to take pictures and videos and send ...",
+        "date": "June 7 @ 7pm - 8:30pm",
+        "address": "520 E 46th St, 520 East 46th Street, Brooklyn, NY 11203, New York, NY",
+        "activity_type": "Food",
+        "latitude": 40.64885530697588,
+        "longitude": -73.93418929180277
+    },
+    {
+        "name": "Sapphire 39 Midtown Nyc - Comp Entry Ticket!",
+        "description": "Sapphire 39 Midtown NYC brings you the best of NYC nightlife with an adult twist. Book your Comp Entry passes Today.",
+        "date": "June 7 @ 7pm - 11pm",
+        "address": "Sapphire 39, 20 West 39th Street, New York, NY 10018",
+        "activity_type": "Entertainment",
+        "latitude": 40.75196471118711,
+        "longitude": -73.98363086980389
+    },
+    {
+        "name": "Beat Our Pacman High Score For A Free Gift !",
+        "description": "BEAT OUR HIGH SCORE IN PAC MAN AND WIN A FREE GIFT !",
+        "date": "June 7 @ 7pm - 10pm",
+        "address": "156 Sullivan St, 156 Sullivan Street, New York, NY 10012",
+        "activity_type": "Entertainment",
+        "latitude": 40.727508281679484,
+        "longitude": -74.00188647011362
+    },
+    {
+        "name": "Vinyl Wednesdays By Range Music",
+        "description": "Range Music NYC can be found on Wednesdays at Williamsburg\u2019s newest vibey spot, 245 Femme Fontaine BK. Listen to classic dance music DJs, dance and by vinyl ...",
+        "date": "June 7 - June 8 @ 7pm - 1am",
+        "address": "Femme Fontaine BK, 245 South 1st Street, Brooklyn, NY 11211, New York, NY",
+        "activity_type": "Music",
+        "latitude": 40.712734792133105,
+        "longitude": -73.95784676402873
+    },
+    {
+        "name": "Bushwick\u2019S Got Talent: Pride Edition Variety Show",
+        "description": "It\u2019s Bushwick\u2019s Got Talent- PRIDE edition! Bushwick\u2019s Got Talent is our monthly FREE spectacle of outrageous entertainment, showcasing fresh talent and ...",
+        "date": "June 7 @ 7pm - 10pm",
+        "address": "House of Yes, 2 Wyckoff Avenue, Brooklyn, NY 11237, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.70679039284036,
+        "longitude": -73.92350993142423
+    },
+    {
+        "name": "Sapphire 39 Midtown Nyc - Comp Entry Ticket!",
+        "description": "Sapphire 39 Midtown NYC brings you the best of NYC nightlife with an adult twist. Book your Comp Entry passes Today.",
+        "date": "June 7 @ 7pm - 11pm",
+        "address": "Sapphire 39, 20 West 39th Street, New York, NY 10018",
+        "activity_type": "Entertainment",
+        "latitude": 40.75184246683539,
+        "longitude": -73.98352290952845
+    },
+    {
+        "name": "Self-Reflection/Rehash: Practicing Uncertainty Opening Reception",
+        "description": "Join us for an exciting BCA Artist Celebration and Opening Reception for Self-Reflection/Rehash: Practicing Uncertainty. The exhibition explores expressions of ...",
+        "date": "June 7 @ 7pm - 9pm",
+        "address": "Longwood Art Gallery @ Hostos, 450 Grand Concourse, Bronx, NY 10451, New York, NY",
+        "activity_type": "Art",
+        "latitude": 40.817371683574244,
+        "longitude": -73.92726431984237
+    },
+    {
+        "name": "Karaoke Wednesdays At The Blu Room Bar & Lounge",
+        "description": "K\ufeffaraoke VJ with an unlimited selection of songs for you to sing. Arrive early for Happy Hour Drink Specials. Also, food menu available.",
+        "date": "June 7 @ 7pm - 11pm",
+        "address": "643 Vanderbilt Ave, 643 Vanderbilt Avenue, Brooklyn, NY 11238, New York, NY",
+        "activity_type": "Food",
+        "latitude": 40.677755489279086,
+        "longitude": -73.96842659943835
+    },
+    {
+        "name": "Secret Jokes (Free Happy Hour Comedy Show)",
+        "description": "FREE HAPPY HOUR COMEDY SHOW Doors @ 7 Show @ 7:30 See NYC's best comedians and enjoy pregame happy hour specials at Secret Pour",
+        "date": "June 7 @ 7pm - 9pm",
+        "address": "Secret Pour, 1114 DeKalb Avenue, Brooklyn, NY 11221, New York, NY",
+        "activity_type": "Happy Hour",
+        "latitude": 40.69379628139874,
+        "longitude": -73.92972018898928
+    },
+    {
+        "name": "Sing & Sip: Karaoke Happy Hour",
+        "description": "Join us for a night of singing, sipping, and socializing at Sing &amp; Sip: Karaoke Happy Hour here at Sing Sing Ave A! Whether you're a seasoned karaoke pro ...",
+        "date": "June 7 @ 7pm - 10pm",
+        "address": "Sing Sing Ave A., 81 Avenue A, New York, NY 10009",
+        "activity_type": "Happy Hour",
+        "latitude": 40.725090851499594,
+        "longitude": -73.98446690509031
+    },
+    {
+        "name": "Bars By Bards: Poetry Open Mic",
+        "description": "Our monthly open mic brings together artists from all walks of life to share their work. We welcome all styles, shapes, and sizes so come share what you got! ...",
+        "date": "June 7 @ 7pm - 10pm",
+        "address": "Urban Vegan Roots, 34-47 31st Street, Queens, NY 11106, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.75839607003735,
+        "longitude": -73.92797133153138
+    },
+    {
+        "name": "Otto's Wednesday Jam & Open Mic",
+        "description": "IMPORTANT: FOR MAY, JUNE AND JULY 2023, THE OTTO'S WEDNESDAY NIGHTS WILL ONLY BE AN OPEN MIC, THERE WILL BE NO OPEN JAM DURING THIS PERIOD, THIS INCLUDES NO ...",
+        "date": "June 7 - June 8 @ 7pm - 12:30am",
+        "address": "Otto's Shrunken Head, 538 East 14th Street, New York, NY 10009",
+        "activity_type": "Entertainment",
+        "latitude": 40.729400487213276,
+        "longitude": -73.97868579230443
+    },
+    {
+        "name": "Kb And Kartiis Send Off",
+        "description": "Don\u2019t come late because you will miss it, rsvp for everyone who\u2019s coming or someone just won\u2019t get food .everybody needs to take pictures and videos and send ...",
+        "date": "June 7 @ 7pm - 8:30pm",
+        "address": "520 E 46th St, 520 East 46th Street, Brooklyn, NY 11203, New York, NY",
+        "activity_type": "Food",
+        "latitude": 40.64888232852443,
+        "longitude": -73.93427695483857
+    },
+    {
+        "name": "Meet Me At The Lake \u2013 In-Person Launch Event",
+        "description": "New York Times bestselling author Carley Fortune will be celebrating the launch of MEET ME AT THE LAKE with her first in-person US event at Dumbo House on ...",
+        "date": "June 7 @ 7pm - 10pm",
+        "address": "DUMBO House, 55 Water Street, Brooklyn, NY 11201, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.70355284391722,
+        "longitude": -73.99166864397512
+    },
+    {
+        "name": "Kb And Kartiis Send Off",
+        "description": "Don\u2019t come late because you will miss it, rsvp for everyone who\u2019s coming or someone just won\u2019t get food .everybody needs to take pictures and videos and send ...",
+        "date": "June 7 @ 7pm - 8:30pm",
+        "address": "520 E 46th St, 520 East 46th Street, Brooklyn, NY 11203, New York, NY",
+        "activity_type": "Food",
+        "latitude": 40.64891183621187,
+        "longitude": -73.93430102528065
+    },
+    {
+        "name": "Free Jazz Night, Flute Champane Bar",
+        "description": "Every Wednesday at 7pm , Enjoy an uplifting evening of live jazz music. Offering a variety of champagnes and Cocktails. Learn about the history of one of New ...",
+        "date": "June 7 @ 7pm - 10pm",
+        "address": "Fl\u00fbte Champagne Bar, 205 West 54th Street, New York, NY 10019",
+        "activity_type": "Music",
+        "latitude": 40.76394203800907,
+        "longitude": -73.98193214264157
+    },
+    {
+        "name": "Otto's Wednesday Jam & Open Mic",
+        "description": "IMPORTANT: FOR MAY, JUNE AND JULY 2023, THE OTTO'S WEDNESDAY NIGHTS WILL ONLY BE AN OPEN MIC, THERE WILL BE NO OPEN JAM DURING THIS PERIOD, THIS INCLUDES NO ...",
+        "date": "June 7 - June 8 @ 7pm - 12:30am",
+        "address": "Otto's Shrunken Head, 538 East 14th Street, New York, NY 10009",
+        "activity_type": "Entertainment",
+        "latitude": 40.729405031522305,
+        "longitude": -73.97876772129652
+    },
+    {
+        "name": "Bushwick\u2019S Got Talent: Pride Edition Variety Show",
+        "description": "It\u2019s Bushwick\u2019s Got Talent- PRIDE edition! Bushwick\u2019s Got Talent is our monthly FREE spectacle of outrageous entertainment, showcasing fresh talent and ...",
+        "date": "June 7 @ 7pm - 10pm",
+        "address": "House of Yes, 2 Wyckoff Avenue, Brooklyn, NY 11237, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.706790416482185,
+        "longitude": -73.92353152937868
+    },
+    {
+        "name": "Smash Wednesday! A Super Smash Bros Ultimate Tiki Happy Hour!",
+        "description": "VACCINE REQUIRED One part nerd, one part slurred, Super Trashed Bros brings together comedy, video games and alcohol at a super rad bar in Brooklyn. Come for ...",
+        "date": "June 7 @ 7:30pm - 10:30pm",
+        "address": "Dromedary Urban Tiki Bar, 266 Irving Avenue, Brooklyn, NY 11237, New York, NY",
+        "activity_type": "Happy Hour",
+        "latitude": 40.699575013577814,
+        "longitude": -73.91585863154688
+    },
+    {
+        "name": "The Best Stand-Up Comedy Bar Show In Nyc - The Famous Village Idiot Show!",
+        "description": "Welcome to the best kept secret in NYC!A Weekly Comedy Club Experience in a NYC bar! The Village Idiot Comedy Show Presents to you every Wednesday night the ...",
+        "date": "June 7 @ 7:30pm - 9:30pm",
+        "address": "Juke Bar, 196 2nd Avenue, New York, NY 10003",
+        "activity_type": "Bar",
+        "latitude": 40.73106877432914,
+        "longitude": -73.98567914744291
+    },
+    {
+        "name": "Ambush Comedy At Two Boots Pizza In Williamsburg!!",
+        "description": "Ambush Comedy is a weekly standup comedy show at Two Boots Pizza in Williamsburg!!&nbsp; Every Wednesday at 7.30pm, join&nbsp; Josh Johnson&nbsp; (Comedy ...",
+        "date": "June 7 @ 7:30pm - 9:30pm",
+        "address": "558 Driggs Ave, 558 Driggs Avenue, Brooklyn, NY 11211, New York, NY",
+        "activity_type": "Art",
+        "latitude": 40.71692098082826,
+        "longitude": -73.95673700925985
+    },
+    {
+        "name": "A Conversation About Fat Ham With James Ijames",
+        "description": "Don't miss this exclusive in-person conversation with acclaimed playwright James Ijames at the Drama Book Shop. Join us on Wednesday, June 7th at 7:30 pm as ...",
+        "date": "June 7 @ 7:30pm - 8:30pm",
+        "address": "The Drama Book Shop, 266 West 39th Street, New York, NY 10018",
+        "activity_type": "Entertainment",
+        "latitude": 40.754925654098926,
+        "longitude": -73.99086420025307
+    },
+    {
+        "name": "Seasoned Comedy Show! The Best Comedy Show In Flatbush!",
+        "description": "Seasoned Comedy is a standup comedy show with comedians you've seen on Netflix, HBO, Comedy Central, and Late Night. Hosted by comics Kari Burt and Joshua ...",
+        "date": "June 7 @ 8pm - 10pm",
+        "address": "BK Lobster, 589 Flatbush Avenue, Brooklyn, NY 11225, New York, NY",
+        "activity_type": "Art",
+        "latitude": 40.659052281103904,
+        "longitude": -73.96033023037516
+    },
+    {
+        "name": "Seasoned Comedy Show! The Best Comedy Show In Flatbush!",
+        "description": "Seasoned Comedy is a standup comedy show with comedians you've seen on Netflix, HBO, Comedy Central, and Late Night. Hosted by comics Kari Burt and Joshua ...",
+        "date": "June 7 @ 8pm - 10pm",
+        "address": "BK Lobster, 589 Flatbush Avenue, Brooklyn, NY 11225, New York, NY",
+        "activity_type": "Art",
+        "latitude": 40.6591704714098,
+        "longitude": -73.96029093635057
+    },
+    {
+        "name": "Wild'n Out Wednesday Karaoke With D'justin !!!",
+        "description": "E\ufeffvery Wednesday at 2171 2nd Avenue in Spanish Harlem. In close proximity to the 4,5,6, and Q trains as well as the M15,M101,M102, and M103 buses.",
+        "date": "June 7 - June 8 @ 8pm - 2am",
+        "address": "Teddy's Bar & Grill, 2171 2nd Avenue, New York, NY 10029",
+        "activity_type": "Music",
+        "latitude": 40.719292462307244,
+        "longitude": -73.95851470305763
+    },
+    {
+        "name": "Vandepump Rules Finale #Scandoval Watch Party",
+        "description": "Witness a historical night in the Bravoverse at Oliver's Astoria for the airing of the Vanderpump Rules Finale episode. It's the #Scandoval we've all been ...",
+        "date": "June 7 @ 8pm - 10pm",
+        "address": "Oliver's Astoria, 37-19 Broadway, Queens, NY 11103, New York, NY",
+        "activity_type": "Happy Hour",
+        "latitude": 40.75960186510946,
+        "longitude": -73.91967993299451
+    },
+    {
+        "name": "Lush Wednesdays",
+        "description": "LUSH WEDNESDAYs",
+        "date": "June 7 - June 8 @ 8pm - 3am",
+        "address": "Macedonia tavern, 9508 Church Avenue, Brooklyn, NY 11212, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.655233646229334,
+        "longitude": -73.9158283899129
+    },
+    {
+        "name": "Wasted Wednesdays Game Night \u2022 Ladies Free \u2022 $125 Bottles \u2022 $20 Hookah",
+        "description": "EACH &amp; EVERY WEDNESDAY \u2022 WASTED WEDNESDAYS GAME NIGHT\u2022 LADIES FREE ALL NIGHT \u2022 $20 HOOKAH \u2022 $125 BOTTLES BEFORE 11PM \u2022 CELEBRATE YOUR BIRTHDAY COME VIBE ...",
+        "date": "June 7 - June 8 @ 8pm - 3am",
+        "address": "OASIS, 550 Remsen Avenue, Brooklyn, NY 11236, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 43.32710552513185,
+        "longitude": -75.18679370479369
+    },
+    {
+        "name": "A Secret Jazz Show At Sid Gold\u2019S",
+        "description": "***10 tickets left*** Experience an hour of soulful jazz at Chelsea speakeasy Sid Gold\u2019s.&nbsp; Lynette Washington, the queen of New York jazz and possessor of ...",
+        "date": "June 7 @ 8pm - 9:30pm",
+        "address": "Sid Gold's Request Room, 165 West 26th Street, New York, NY 10001",
+        "activity_type": "Art",
+        "latitude": 40.745845642295635,
+        "longitude": -73.99354250312462
+    },
+    {
+        "name": "Free!! Indecent Behavior Comedy",
+        "description": "T\ufeffhis is a brand new weekly stand up show!! WE DON'T GIVE A FUUCK! EVERYTHING GOES!! ;) E\ufeffxpect comedians seen on Comedy Central,HBO Max, Netflix, ...",
+        "date": "June 7 @ 8pm - 9:30pm",
+        "address": "Caffeine Underground, 447 Central Avenue #Suite A, Brooklyn, NY 11221, New York, NY",
+        "activity_type": "Art",
+        "latitude": 40.69214355740527,
+        "longitude": -73.91451336157368
+    },
+    {
+        "name": "Free Nyc Comedy Show!",
+        "description": "Two Item Minimum (Food or drink) Ages 21+",
+        "date": "June 7 @ 8:30pm - 10pm",
+        "address": "The Three Monkeys, 236 West 54th Street, New York, NY 10019",
+        "activity_type": "Food",
+        "latitude": 40.76865128121057,
+        "longitude": -73.9917851815779
+    },
+    {
+        "name": "Alchemist Series @Caf\u00e9 Balerica",
+        "description": "Come dance with us to our sixth Alchemist Series event, we\u2019re hosting Mark Azadian, Ariba and Reva respresenting Eclipse. Can\u2019t wait to enjoy this one with you all!",
+        "date": "June 7 - June 8 @ 9pm - 2am",
+        "address": "Cafe Balearica, 44 Berry Street, Brooklyn, NY 11249, New York, NY",
+        "activity_type": "Club",
+        "latitude": 40.721007689412744,
+        "longitude": -73.95663416673332
+    },
+    {
+        "name": "Piano Bar Night With Nina",
+        "description": "Every Wednesday! NO COVER *proof of double vax required for entry*",
+        "date": "June 7 - June 8 @ 9pm - 12am",
+        "address": "Good Judy, 563 5th Avenue, Brooklyn, NY 11215, New York, NY",
+        "activity_type": "Bar",
+        "latitude": 40.66533346293405,
+        "longitude": -73.98915228906056
+    },
+    {
+        "name": "Sunset Meditation",
+        "description": "Sunset Meditation at Socrates Sculpture Park. Sessions are designed for all experience levels and practices include mindful breathing, walking, gentle optional stretching, & meditation.",
+        "date": "June 06 @ 07AM - June 06 @ 08PM",
+        "address": "Socrates Sculpture Park, New York, NY",
+        "activity_type": "Art",
+        "latitude": 40.768731205295275,
+        "longitude": -73.93658658224666
+    },
+    {
+        "name": "Forest Fitness",
+        "description": "Join the Fort Tryon Park Trust for a free, year-round exercise program on Tuesdays, Thursdays, and Saturdays! Each day of the week is geared toward a different activity level. All are welcome!",
+        "date": "June 06 @ 07AM - June 06 @ 08AM",
+        "address": "Margaret Corbin Circle, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.859299426770605,
+        "longitude": -73.93395060283457
+    },
+    {
+        "name": "Total Body Fitness",
+        "description": "This fun low-impact full-body workout includes cardio, strength and balance exercises to improve your overall fitness.",
+        "date": "June 06 @ 08AM - June 06 @ 09AM",
+        "address": "Dance Room, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.71274635172071,
+        "longitude": -74.00605956825922
+    },
+    {
+        "name": "Fitness Walk",
+        "description": "Join us for a free self-guided fitness walking program.",
+        "date": "June 06 @ 09AM - June 06 @ 10AM",
+        "address": "Fort Totten Front Gate, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.79133410387853,
+        "longitude": -73.78110819722114
+    },
+    {
+        "name": "Arsenal Gallery: Ji Zhou: Symbiosis",
+        "description": "NYC Parks is pleased to present Ji Zhou: Symbiosis, which includes eight large-scale photographs by Ji Zhou, curated by Eli Klein Gallery. Running from March 22 \u2013 June 16, 2023.",
+        "date": "June 06 @ 09AM - June 06 @ 05PM",
+        "address": "Arsenal, New York, NY",
+        "activity_type": "Art",
+        "latitude": 40.75529058746239,
+        "longitude": -73.99073358541456
+    },
+    {
+        "name": "Total Body Bootcamp",
+        "description": "Total Body Bootcamp is a cardio workout that will engage your entire body to elevate your heart rate, strengthen muscles, improve coordination and balance.",
+        "date": "June 06 @ 09AM - June 06 @ 10AM",
+        "address": "New Settlement Community Center, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.84303771391425,
+        "longitude": -73.9162110786209
+    },
+    {
+        "name": "Senior Cardio Sculpt",
+        "description": "This low impact cardio workout consists of functional movement exercises designed to make daily activities easier to perform.",
+        "date": "June 06 @ 09AM - June 06 @ 10AM",
+        "address": "Sunnyside Community Services, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.7447920625694,
+        "longitude": -73.9258741816688
+    },
+    {
+        "name": "Cardio Dance",
+        "description": "A fusion of Hip Hop, R&B, Afro beats and dance cardio that promotes self-love and body confidence, using easy-to-follow moves.",
+        "date": "June 06 @ 10AM - June 06 @ 11AM",
+        "address": "Dance Room, New York, NY",
+        "activity_type": "Club",
+        "latitude": 40.712685829944604,
+        "longitude": -74.00595416384236
+    },
+    {
+        "name": "KIM: Horace Harding Playground",
+        "description": "Join NYC Parks staff in free activities in NYC's playgrounds, including organized sports, games, fitness demos, board games, water games, and more!",
+        "date": "June 06 @ 10AM - June 06 @ 06PM",
+        "address": "Play Area, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.71274096156724,
+        "longitude": -74.00590685806092
+    },
+    {
+        "name": "Fitness Mobile: Low Impact Fitness",
+        "description": "Join us this spring for free morning fitness activities in the park with our Fitness Mobile Unit.",
+        "date": "June 06 @ 10AM - June 06 @ 12PM",
+        "address": "Multipurpose Hard Top Area, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.72731523810825,
+        "longitude": -73.98200149774692
+    },
+    {
+        "name": "KIM: Bowne Playground",
+        "description": "Join NYC Parks staff in free activities in NYC's playgrounds, including organized sports, games, fitness demos, board games, water games, and more!",
+        "date": "June 06 @ 10AM - June 06 @ 06PM",
+        "address": "Play Area, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.7128621400127,
+        "longitude": -74.0059623646323
+    },
+    {
+        "name": "Fitness Mobile: Low Impact Fitness",
+        "description": "Join us this spring for free morning fitness activities in the park with our Fitness Mobile Unit.",
+        "date": "June 06 @ 10AM - June 06 @ 12PM",
+        "address": "Multipurpose Hard Top Area, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.727192960193676,
+        "longitude": -73.9819279878307
+    },
+    {
+        "name": "KIM: Playground For All Children",
+        "description": "Join NYC Parks staff in free activities in NYC's playgrounds, including organized sports, games, fitness demos, board games, water games, and more!",
+        "date": "June 06 @ 10AM - June 06 @ 06PM",
+        "address": "Playground for All Children, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.7413949025112,
+        "longitude": -73.84895532362344
+    },
+    {
+        "name": "KIM: Horace Harding Playground",
+        "description": "Join NYC Parks staff in free activities in NYC's playgrounds, including organized sports, games, fitness demos, board games, water games, and more!",
+        "date": "June 06 @ 10AM - June 06 @ 06PM",
+        "address": "Play Area, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.71269491775763,
+        "longitude": -74.00588936697076
+    },
+    {
+        "name": "KIM: Astoria Heights Playground",
+        "description": "Join NYC Parks staff in free activities in NYC's playgrounds, including organized sports, games, fitness demos, board games, water games, and more!",
+        "date": "June 06 @ 10AM - June 06 @ 06PM",
+        "address": "Play Area (JHS 10), New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.71274839002197,
+        "longitude": -74.00596836421037
+    },
+    {
+        "name": "SSE: Fairview Learn to Play Pickleball",
+        "description": "Join NYC Parks in fitness and sports programs",
+        "date": "June 06 @ 10AM - June 06 @ 02PM",
+        "address": "Greenbelt Recreation Center, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.59192625766579,
+        "longitude": -74.13917062353119
+    },
+    {
+        "name": "Cardio Dance",
+        "description": "A fusion of Hip Hop, R&B, Afro beats and dance cardio that promotes self-love and body confidence, using easy-to-follow moves.",
+        "date": "June 06 @ 10AM - June 06 @ 11AM",
+        "address": "Dance Room, New York, NY",
+        "activity_type": "Club",
+        "latitude": 40.71269399062393,
+        "longitude": -74.00605119452216
+    },
+    {
+        "name": "KIM: St. Catherine's Park",
+        "description": "Join NYC Parks staff in free activities in NYC\u2019s playgrounds, including organized sports, games, fitness demos, board games, water games, and more!",
+        "date": "June 06 @ 10AM - June 06 @ 06PM",
+        "address": "Playground, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.746358956892905,
+        "longitude": -73.89375429227799
+    },
+    {
+        "name": "KIM: Seward Park",
+        "description": "Join NYC Parks staff in free activities in NYC\u2019s playgrounds, including organized sports, games, fitness demos, board games, water games, and more!",
+        "date": "June 06 @ 10AM - June 06 @ 06PM",
+        "address": "Playground, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.74653093972467,
+        "longitude": -73.89370908156603
+    },
+    {
+        "name": "Coney Island: Past, Present and Future RiSC Community Open House",
+        "description": "The National Wildlife Federation's Resilient Schools Consortium (RiSC) educates students about climate change, climate impacts, climate justice and resilience solutions.",
+        "date": "June 06 @ 10AM - June 06 @ 01PM",
+        "address": "Kaiser Park, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.579017186829894,
+        "longitude": -73.99561541265831
+    },
+    {
+        "name": "KIM: Bowne Playground",
+        "description": "Join NYC Parks staff in free activities in NYC's playgrounds, including organized sports, games, fitness demos, board games, water games, and more!",
+        "date": "June 06 @ 10AM - June 06 @ 06PM",
+        "address": "Play Area, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.712811261177535,
+        "longitude": -74.00601996565501
+    },
+    {
+        "name": "Gardening Tuesday!",
+        "description": "Join the Bronx River Alliance every Tuesday from 10a-12pm for stewardship activities such as litter removal, weeding, mulching, watering & planting at different rain gardens &\u2026",
+        "date": "June 06 @ 10AM - June 06 @ 12PM",
+        "address": "Starlight Park, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.833583224770116,
+        "longitude": -73.88251118697524
+    },
+    {
+        "name": "KIM: Yellowstone Park",
+        "description": "Join NYC Parks staff in free activities in NYC's playgrounds, including organized sports, games, fitness demos, board games, water games, and more!",
+        "date": "June 06 @ 10AM - June 06 @ 06PM",
+        "address": "Yellowstone Park Park House, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.726220563061744,
+        "longitude": -73.84762336082163
+    },
+    {
+        "name": "KIM: Park of the Americas",
+        "description": "Join NYC Parks staff in free activities in NYC's playgrounds, including organized sports, games, fitness demos, board games, water games, and more!",
+        "date": "June 06 @ 10AM - June 06 @ 06PM",
+        "address": "Playground (Linden Playground), New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.712723058008955,
+        "longitude": -74.00588453707176
+    },
+    {
+        "name": "KIM: Helen Marshall Playground",
+        "description": "Join NYC Parks staff in free activities in NYC's playgrounds, including organized sports, games, fitness demos, board games, water games, and more!",
+        "date": "June 06 @ 10AM - June 06 @ 06PM",
+        "address": "Play Area, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.712872513597226,
+        "longitude": -74.00591935876686
+    },
+    {
+        "name": "Fitness Mobile: Low Impact Fitness",
+        "description": "Join us this spring for free morning fitness activities in the park with our Fitness Mobile Unit.",
+        "date": "June 06 @ 10AM - June 06 @ 12PM",
+        "address": "Multipurpose Hard Top Area, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.72735904636938,
+        "longitude": -73.98187086767959
+    },
+    {
+        "name": "KIM: Bowne Park",
+        "description": "Join NYC Parks staff in free activities in NYC's playgrounds, including organized sports, games, fitness demos, board games, water games, and more!",
+        "date": "June 06 @ 10AM - June 06 @ 06PM",
+        "address": "Playground, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.746474142604896,
+        "longitude": -73.893747844987
+    },
+    {
+        "name": "KIM: Playground For All Children",
+        "description": "Join NYC Parks staff in free activities in NYC's playgrounds, including organized sports, games, fitness demos, board games, water games, and more!",
+        "date": "June 06 @ 10AM - June 06 @ 06PM",
+        "address": "Playground for All Children, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.74131673945567,
+        "longitude": -73.8488686639074
+    },
+    {
+        "name": "Cardio Dance",
+        "description": "A fusion of Hip Hop, R&B, Afro beats and dance cardio that promotes self-love and body confidence, using easy-to-follow moves.",
+        "date": "June 06 @ 10AM - June 06 @ 11AM",
+        "address": "Dance Room, New York, NY",
+        "activity_type": "Club",
+        "latitude": 40.71279793619172,
+        "longitude": -74.00599597717896
+    },
+    {
+        "name": "Total Body Fitness",
+        "description": "This fun low-impact full-body workout includes cardio, strength and balance exercises to improve your overall fitness.",
+        "date": "June 06 @ 10AM - June 06 @ 10AM",
+        "address": "Brownsville Community Culinary Center, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.668984245536976,
+        "longitude": -73.90779011735427
+    },
+    {
+        "name": "KIM: Lou Lodatti/Torsney Playground",
+        "description": "Join NYC Parks staff in free activities in NYC's playgrounds, including organized sports, games, fitness demos, board games, water games, and more!",
+        "date": "June 06 @ 10AM - June 06 @ 06PM",
+        "address": "Lou Lodati Playground - Play Area, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.747323018782375,
+        "longitude": -73.92181600255773
+    },
+    {
+        "name": "175th Anniversary of the High Bridge",
+        "description": "Join Parks Commissioner Sue Donoghue, elected officials, civic leaders & community partners for a 175th Anniversary celebration of the oldest standing bridge in NYC: the High Bridge!",
+        "date": "June 06 @ 10AM - June 06 @ 12PM",
+        "address": "The High Bridge, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.842199894797716,
+        "longitude": -73.92890702955457
+    },
+    {
+        "name": "KIM: Bowne Playground",
+        "description": "Join NYC Parks staff in free activities in NYC's playgrounds, including organized sports, games, fitness demos, board games, water games, and more!",
+        "date": "June 06 @ 10AM - June 06 @ 06PM",
+        "address": "Play Area, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.71273707218505,
+        "longitude": -74.00602246151996
+    },
+    {
+        "name": "KIM: Hoover - Manton Playground",
+        "description": "Join NYC Parks staff in free activities in NYC's playgrounds, including organized sports, games, fitness demos, board games, water games, and more!",
+        "date": "June 06 @ 10AM - June 06 @ 06PM",
+        "address": "Open Area, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.71283022577671,
+        "longitude": -74.00596572529557
+    },
+    {
+        "name": "SSE: Dutch Kills Playground",
+        "description": "Summer Sports Experience is an instructional youth program that teaches sports skills.",
+        "date": "June 06 @ 11AM - June 06 @ 07PM",
+        "address": "Hard Top Multipurpose Field, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.75950606768815,
+        "longitude": -73.90041065114328
+    },
+    {
+        "name": "Cardio Sculpt",
+        "description": "This cardio workout consists of functional movement exercises designed to make daily activities easier to perform.",
+        "date": "June 06 @ 11AM - June 06 @ 12PM",
+        "address": "Queensbridge Park House, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.75663277122849,
+        "longitude": -73.9486331814081
+    },
+    {
+        "name": "Total Body Bootcamp",
+        "description": "Total Body Bootcamp is a cardio workout that will engage your entire body to elevate your heart rate, strengthen muscles, improve coordination and balance.",
+        "date": "June 06 @ 11AM - June 06 @ 12PM",
+        "address": "Bronx Neighborhood Health Action Center, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.84409898948656,
+        "longitude": -73.89414903418874
+    },
+    {
+        "name": "Grow Your Garden Group: Welcoming New Members",
+        "description": "Gain ideas for welcoming and onboarding your new garden members in this virtual lunchtime workshop!",
+        "date": "June 06 @ 12PM - June 06 @ 01PM",
+        "address": "Virtual/Online Workshop, New York, NY",
+        "activity_type": "Workshop",
+        "latitude": 40.77493452086024,
+        "longitude": -73.90652607109347
+    },
+    {
+        "name": "The Great Fire of 1963",
+        "description": "60 years after one of Staten Island's greatest tragedies, explore the history behind The Great Fire of 1963, a.k.a Black Saturday.",
+        "date": "June 06 @ 12PM - June 06 @ 03PM",
+        "address": "H.H. Biddle House, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.50555886359554,
+        "longitude": -74.25420608436131
+    },
+    {
+        "name": "Low Impact Bodyweight Circuit Training",
+        "description": "This Low Impact Circuit Training class combines bodyweight resistance training and conditioning to provide you with a safe and effective full-body workout",
+        "date": "June 06 @ 01PM - June 06 @ 02PM",
+        "address": "Queens Public Library - Bayside, New York, NY",
+        "activity_type": "Workshop",
+        "latitude": 40.76010914984459,
+        "longitude": -73.7684309328132
+    },
+    {
+        "name": "Learn to Shoot Manual Photography",
+        "description": "Come Join NYC Parks for this \"Free\" Activity",
+        "date": "June 06 @ 03PM - June 06 @ 05PM",
+        "address": "Multi-Use Room, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.57669628337363,
+        "longitude": -73.93599246776331
+    },
+    {
+        "name": "SSE: Learn to Play Basketball GBRC",
+        "description": "Join NYC Parks Recreation Centers",
+        "date": "June 06 @ 04PM - June 06 @ 06PM",
+        "address": "Greenbelt Recreation Center, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.59186869172135,
+        "longitude": -74.13914225227583
+    },
+    {
+        "name": "Cardio Dance",
+        "description": "This creative and fun workout fuses dance and aerobics to improve cardio fitness and tone the body.",
+        "date": "June 06 @ 04PM - June 06 @ 05PM",
+        "address": "Dance Room, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.71285947169585,
+        "longitude": -74.00593679451941
+    },
+    {
+        "name": "Yoga",
+        "description": "Experience a fun and light-hearted, mid-intensity flow that will move you seamlessly from Sun Salutation to a final peak pose.",
+        "date": "June 06 @ 06PM - June 06 @ 07PM",
+        "address": "Dance Room, New York, NY",
+        "activity_type": "Wellness",
+        "latitude": 40.71276056621087,
+        "longitude": -74.00607029763404
+    },
+    {
+        "name": "Low Impact Circuit Training",
+        "description": "This Low Impact Circuit Training class combines bodyweight resistance training and conditioning to provide you with a safe and effective full-body workout",
+        "date": "June 06 @ 06PM - June 06 @ 07PM",
+        "address": "NYPL - Hamilton Grange Library, New York, NY",
+        "activity_type": "Workshop",
+        "latitude": 40.82565322917578,
+        "longitude": -73.94807574100584
+    },
+    {
+        "name": "Cardio Dance",
+        "description": "This creative and fun workout fuses dance and aerobics to improve cardio fitness and tone the body.",
+        "date": "June 06 @ 06PM - June 06 @ 07PM",
+        "address": "Dance Room, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.71277514517923,
+        "longitude": -74.00597729205066
+    },
+    {
+        "name": "Tuesday Evening Zumba with Alejandra",
+        "description": "Join certified Zumba instructors twice a week for exhilarating exercise in the fresh air. Tuesday Evening Zumba with Alejandra takes place on the volleyball courts in Fort Tryon Park.",
+        "date": "June 06 @ 06PM - June 06 @ 07PM",
+        "address": "Fort Washington (Subway) Terrace at the 190th A Train Subway Station, New York, NY",
+        "activity_type": "Outdoor",
+        "latitude": 40.85579736930041,
+        "longitude": -73.93162981162631
+    },
+    {
+        "name": "Summer on the Hudson: Pilates",
+        "description": "This class will help tone and balance your muscles, align your body, strengthen your core, and give you renewed energy!",
+        "date": "June 06 @ 06PM - June 06 @ 07PM",
+        "address": "The Plaza at 66th Street, New York, NY",
+        "activity_type": "Workshop",
+        "latitude": 40.7647147497972,
+        "longitude": -73.97432193457571
+    },
+    {
+        "name": "Summer on the Hudson: Body Roll",
+        "description": "Joyful and cathartic dance aerobics with VIVA! Low stakes, all fun, and open to all levels.",
+        "date": "June 06 @ 06PM - June 06 @ 07PM",
+        "address": "Pier I, New York, NY",
+        "activity_type": "Club",
+        "latitude": 40.77993180174281,
+        "longitude": -73.98870974210065
+    },
+    {
+        "name": "Summer on the Hudson: Moving For Life",
+        "description": "Practice breathing exercises and active aerobic dancing to strengthen body awareness.",
+        "date": "June 06 @ 06PM - June 06 @ 07PM",
+        "address": "On the Pier, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.71270290215627,
+        "longitude": -74.00593975499453
+    },
+    {
+        "name": "Tuesday Evening Zumba with Alejandra",
+        "description": "Join certified Zumba instructors twice a week for exhilarating exercise in the fresh air. Tuesday Evening Zumba with Alejandra takes place on the volleyball courts in Fort Tryon Park.",
+        "date": "June 06 @ 06PM - June 06 @ 07PM",
+        "address": "Fort Washington (Subway) Terrace at the 190th A Train Subway Station, New York, NY",
+        "activity_type": "Outdoor",
+        "latitude": 40.855699259369445,
+        "longitude": -73.93163020758398
+    },
+    {
+        "name": "NYRR Open Run: Brooklyn Bridge Park",
+        "description": "NYRR Open Run Brings free, 5K weekly community-led runs, to neighborhood parks across the greater New York City area.",
+        "date": "June 06 @ 07PM - June 06 @ 09PM",
+        "address": "South side of Fornino on Pier 6, New York, NY",
+        "activity_type": "Outdoor",
+        "latitude": 40.69235199830629,
+        "longitude": -74.00211697233689
+    },
+    {
+        "name": "Zumba",
+        "description": "Zumba is a fusion of Latin, International and popular music dance themes creating a dynamic, exciting, effective fitness system!",
+        "date": "June 06 @ 07PM - June 06 @ 08PM",
+        "address": "The Salvation Army Port Richmond Corps Community Center, New York, NY",
+        "activity_type": "Music",
+        "latitude": 40.62656581805091,
+        "longitude": -74.1331470047566
+    },
+    {
+        "name": "Bodyweight Circuit Training",
+        "description": "This circuit training class combines bodyweight resistance training and conditioning to provide you with a dynamic full body workout",
+        "date": "June 06 @ 07PM - June 06 @ 08PM",
+        "address": "Multi-Use Room - Full, New York, NY",
+        "activity_type": "Workshop",
+        "latitude": 40.57676199144896,
+        "longitude": -73.93595624484607
+    },
+    {
+        "name": "Virtual Yoga",
+        "description": "This beginner yoga class will teach you a variety of yoga postures (asanas), fundamental movement patterns, and proper body alignment including yoga principles.",
+        "date": "June 06 @ 07PM - June 06 @ 08PM",
+        "address": "Virtual/Online Events, New York, NY",
+        "activity_type": "Workshop",
+        "latitude": 40.774837962408704,
+        "longitude": -73.90643419089992
+    },
+    {
+        "name": "Cardio Dance",
+        "description": "This creative and fun workout fuses dance and aerobics to improve cardio fitness and tone the body.",
+        "date": "June 06 @ 07PM - June 06 @ 08PM",
+        "address": "Harlem Children's Zone- The Armory, New York, NY",
+        "activity_type": "Sports",
+        "latitude": 40.818505720468366,
+        "longitude": -73.9357228013372
+    },
+    {
+        "name": "SharQui - The Bellydance Workout",
+        "description": "In a SharQui class, you\u2019ll learn new moves and combinations in flow.",
+        "date": "June 06 @ 07PM - June 06 @ 08PM",
+        "address": "Dance Room, New York, NY",
+        "activity_type": "Workshop",
+        "latitude": 40.712764408115724,
+        "longitude": -74.00601379841972
+    },
+    {
+        "name": "Washington Square Music Festival",
+        "description": "WASHINGTON SQUARE MUSIC FESTIVAL 65th SEASON CELEBRATION",
+        "date": "June 06 @ 08PM - June 06 @ 10PM",
+        "address": "Garibaldi Plaza, New York, NY",
+        "activity_type": "Music",
+        "latitude": 40.73055894301535,
+        "longitude": -73.99677976652015
+    },
+    {
+        "name": "Movies Under the Stars: Turning Red",
+        "description": "Disney and Pixar\u2019s \u201cTurning Red\u201d introduces Mei Lee, a confident, dorky 13-year-old torn between staying her mother\u2019s dutiful daughter and the chaos of adolescence.",
+        "date": "June 06 @ 08PM - June 06 @ 10PM",
+        "address": "P.S 114Q, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.712719652892936,
+        "longitude": -74.00603623494449
+    }
+]
