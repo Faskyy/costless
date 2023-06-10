@@ -363,7 +363,7 @@ def get_coordinates(street, city, state, zip_code):
 
         # Define the API request URL with the address, API key, components, and bounds parameters
         components = f"locality:New York|administrative_area:NY"  # Specify city as "New York" and state as "NY"
-        google_maps_api_key = "AIzaSyAjxC0CeXF7y0Rc1EoISAiyq-sfUYZE-xQ"
+        google_maps_api_key = os.getenv("GOOGLE_MAPS_API_KEY")
         url = f"https://maps.googleapis.com/maps/api/geocode/json?address={full_address}&components={components}&bounds={nyc_bounds}&key={google_maps_api_key}"
 
         # Send the API request and get the response
