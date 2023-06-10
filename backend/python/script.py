@@ -363,6 +363,7 @@ def get_coordinates(street, city, state, zip_code):
 
         # Define the API request URL with the address, API key, components, and bounds parameters
         components = f"locality:New York|administrative_area:NY"  # Specify city as "New York" and state as "NY"
+        google_maps_api_key = "AIzaSyAjxC0CeXF7y0Rc1EoISAiyq-sfUYZE-xQ"
         url = f"https://maps.googleapis.com/maps/api/geocode/json?address={full_address}&components={components}&bounds={nyc_bounds}&key={google_maps_api_key}"
 
         # Send the API request and get the response
@@ -441,23 +442,25 @@ def main():
 
 if __name__ == '__main__':
     base_url_1 = os.getenv('BASE_URL_1')
-    base_url_2 =  os.getenv('BASE_URL_2')
-    query_params = "q=New%20York,%20NY,%20United%20States&lat=40.7127753&lng=-74.0059728&rad=30&order=distance&startDate="
+    base_url_2 = os.getenv('BASE_URL_2')
+    query_params = "q=New%20York,%20NY,%20United%20States&lat=40.7127753&lng=-74.0059728"
     current_date = date.today().strftime("%Y-%m-%d")
 
     events = []
     new_events_count = 0
+    page = 1
 
-    # Scrape pages 
+
+    # Scrape pages
     for page in range(1, 11):  # Scrape pages 1-10
-        url = f"{base_url_1}?page={page}&{query_params}{current_date}"
+        url = f"{base_url_1.format(page)}&{query_params}"
         scraped_events = scrape_page(url)
         for event in scraped_events:
             parsed_event = parse_event(event)  # Parse each event to add lat, lon, and activity type
             events.append(parsed_event)  # Append the parsed event to the list
             new_events_count += 1
 
-    for page in range(1, 11):  # Scrape pages 1-10
+    for page in range(1, 21):  # Scrape pages 1-10
         url = base_url_2.format(current_date, current_date, page)
         scraped_events = scrape_page(url)
         for event in scraped_events:
@@ -470,6 +473,7 @@ if __name__ == '__main__':
 
     main()
     app.run()
+
 
 
 
