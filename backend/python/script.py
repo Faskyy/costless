@@ -440,7 +440,17 @@ def main():
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     print(f"SCRIPT RUNNING, EXECUTED AT {current_time}")
 
+def get_events_filename():
+    current_date = date.today().strftime("%Y-%m-%d")
+    filename = f"events_{current_date}.json"
+    return filename
+
+
 if __name__ == '__main__':
+    # Load previously saved events from the file
+    filename = get_events_filename()
+    existing_events = load_events_from_file(filename)
+
     base_url_1 = os.getenv('BASE_URL_1')
     base_url_2 = os.getenv('BASE_URL_2')
     query_params = "q=New%20York,%20NY,%20United%20States&lat=40.7127753&lng=-74.0059728"
@@ -449,32 +459,47 @@ if __name__ == '__main__':
     events = []
     new_events_count = 0
     page = 1
+    geocoding_requests = 0  # Counter for geocoding requests
 
+    # Create a set of unique event names from the existing events
+    unique_event_names = set(event['name'] for event in existing_events)
 
     # Scrape pages
     for page in range(1, 11):  # Scrape pages 1-10
         url = f"{base_url_1.format(page)}&{query_params}"
         scraped_events = scrape_page(url)
         for event in scraped_events:
-            parsed_event = parse_event(event)  # Parse each event to add lat, lon, and activity type
-            events.append(parsed_event)  # Append the parsed event to the list
-            new_events_count += 1
+            if event['name'] not in unique_event_names:
+                parsed_event = parse_event(event)  # Parse each event to add lat, lon, and activity type
+                events.append(parsed_event)  # Append the parsed event to the list
+                unique_event_names.add(event['name'])  # Add the event name to the set
+                new_events_count += 1
+                geocoding_requests += 1
 
-    for page in range(1, 21):  # Scrape pages 1-10
+    for page in range(1, 21):  # Scrape pages 1-20
         url = base_url_2.format(current_date, current_date, page)
         scraped_events = scrape_page(url)
         for event in scraped_events:
-            parsed_event = parse_event(event)  # Parse each event to add lat, lon, and activity type
-            events.append(parsed_event)  # Append the parsed event to the list
-            new_events_count += 1
+            if event['name'] not in unique_event_names:
+                parsed_event = parse_event(event)  # Parse each event to add lat, lon, and activity type
+                events.append(parsed_event)  # Append the parsed event to the list
+                unique_event_names.add(event['name'])  # Add the event name to the set
+                new_events_count += 1
+                geocoding_requests += 1
 
-    save_events_to_file(events, get_events_filename())
-    logging.info(f"Number of new events added: {new_events_count}")
+    # Save new events to the file if any were added
+    if new_events_count > 0:
+        all_events = existing_events + events
+        save_events_to_file(all_events, filename)
+        logging.info(f"Number of new events added: {new_events_count}")
+    else:
+        logging.info("No new events found.")
+
+    # Print the number of geocoding requests
+    print(f"Number of geocoding requests: {geocoding_requests}")
 
     main()
     app.run()
-
-
 
 
 
