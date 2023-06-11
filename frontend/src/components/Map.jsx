@@ -97,6 +97,11 @@ function MapComponent() {
 
   const renderMarkers = () => {
     return eventsData.map((item, i) => {
+
+      if (isNaN(item.longitude) || isNaN(item.latitude)) {
+        return null; 
+      }
+      
       let index = categoryValue.indexOf(item.activity_type);
       let colorClass;
       if (index < 3) {
@@ -143,7 +148,6 @@ function MapComponent() {
   };
 
   const getUniqueCategories = () => {
-    console.log('Updating');
     let categories = eventsData && Array.isArray(eventsData) && eventsData.map((dt) => dt.activity_type);
 
     return [...new Set(categories)];
@@ -171,7 +175,6 @@ function MapComponent() {
       </div>
       <div className="legend-container">
   <div className={`legend-item d-flex ${selectedCategory === null ? 'selected-category' : ''}`} onClick={() => setSelectedCategory(null)}>
-    <img src="./icons/png/fahdksara_home.png" alt="" height={22} />
     <div style={{ marginLeft: '37px' }} className="legend-item-text" onClick={() => setSelectedCategory(null)}>
       View All
     </div>

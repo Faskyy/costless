@@ -10,7 +10,7 @@ function LandingComponent() {
 
   const handleLogin = () => {
     loginWithRedirect({
-      redirect_uri: `${window.location.origin}/profile-setup`, // Update the redirect URI
+      redirect_uri: `${window.location.origin}/`, // Update the redirect URI
     });
   };
 
